@@ -1,7 +1,7 @@
 # Oscar Award Timing & Race Analysis
 ![Logo](https://github.com/o10199/Oscars_Awards_Python/blob/main/images/oscars.jpg)
 ## Overview
-The Academy Awards represent the pinnacle of achievement in filmmaking — but do all winners get there at the same time? This project examines whether an actor's racial or ethnic background affects **when** they receive an Oscar. Using linear regression on historical winner data spanning nearly 90 years, the analysis investigates potential systemic patterns in the timing of Oscar recognition across racial groups.
+The Academy Awards represent the pinnacle of achievement in filmmaking but do all winners get there at the same time? This project examines whether an actor's racial or ethnic background affects **when** they receive an Oscar. Using linear regression on historical winner data spanning nearly 90 years, the analysis investigates potential systemic patterns in the timing of Oscar recognition across racial groups.
 
 **Research Question:** Does race or ethnicity influence the year in which an actor receives an Oscar award?
 
@@ -98,6 +98,6 @@ print(model_ols.summary())
 ---
 
 ## Conclusion
-Race has a statistically significant but practically small effect on Oscar award timing, explaining just 4.2% of the variance. No specific racial group shows a statistically significant individual advantage or disadvantage. This analysis cannot establish causality — uncontrolled variables such as film genre, studio backing, and role availability likely play a substantial role. Future research should examine gender-race interactions, industry access factors, and the qualitative nature of roles available to different racial groups for a more complete picture.
+Race has a statistically significant but practically small effect on Oscar award timing, explaining just 4.2% of the variance. No specific racial group shows a statistically significant individual advantage or disadvantage. This analysis cannot establish causality; uncontrolled variables such as film genre, studio backing, and role availability likely play a substantial role. Future research should examine gender-race interactions, industry access factors, and the qualitative nature of roles available to different racial groups for a more complete picture.
 
 ---
