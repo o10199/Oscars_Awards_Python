@@ -1,5 +1,5 @@
 # Oscar Award Timing & Race Analysis
-
+images/oscars.jpg
 ## Overview
 The Academy Awards represent the pinnacle of achievement in filmmaking — but do all winners get there at the same time? This project examines whether an actor's racial or ethnic background affects **when** they receive an Oscar. Using linear regression on historical winner data spanning nearly 90 years, the analysis investigates potential systemic patterns in the timing of Oscar recognition across racial groups.
 
