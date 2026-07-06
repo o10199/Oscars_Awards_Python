@@ -101,6 +101,3 @@ print(model_ols.summary())
 Race has a statistically significant but practically small effect on Oscar award timing, explaining just 4.2% of the variance. No specific racial group shows a statistically significant individual advantage or disadvantage. This analysis cannot establish causality — uncontrolled variables such as film genre, studio backing, and role availability likely play a substantial role. Future research should examine gender-race interactions, industry access factors, and the qualitative nature of roles available to different racial groups for a more complete picture.
 
 ---
-
-## References
-Mejia, F. (2020, February 4). *Demographics of Academy Awards (Oscars) winners*. Kaggle. https://www.kaggle.com/datasets/fmejia21/demographics-of-academy-awards-oscars-winners
